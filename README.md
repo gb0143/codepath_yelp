@@ -1,4 +1,4 @@
-# Project 3 - *CodePath Yelp Clone*
+# Project 3 - CodePath Yelp Client
 
 **CodePath Yelp Clone** is a Yelp client app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
